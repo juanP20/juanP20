@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=000000&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+Juan+Pablo.+Welcome+to+my+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=fff&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+Juan+Pablo.+Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 # 💫 About Me:
 Hello! I'm Juan Pablo Arenas Duango, a passionate young individual<br> in constant growth within the field of programming. <br>My focus is on learning and continually enhancing <br>my technical skills. I am strongly committed to teamwork and <br>effective problem-solving. <br>Ready to take on exciting challenges and keep learning!
 
